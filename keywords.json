@@ -1,0 +1,408 @@
+{
+  "archive": [
+    "store"
+  ],
+  "arrow-down": [
+    "arrow"
+  ],
+  "arrow-left": [
+    "arrow"
+  ],
+  "arrow-right": [
+    "arrow"
+  ],
+  "arrow-up": [
+    "arrow"
+  ],
+  "at-sign": [
+    "email"
+  ],
+  "bell": [
+    "notifications"
+  ],
+  "bin": [
+    "delete",
+    "remove",
+    "rubbish",
+    "trash",
+    "waste"
+  ],
+  "block": [
+    "banned"
+  ],
+  "bluetooth": [
+    "connect",
+    "wireless"
+  ],
+  "book-open": [
+    "information"
+  ],
+  "bookmark": [
+    "save"
+  ],
+  "briefcase": [
+    "luggage"
+  ],
+  "bug": [
+    "issue",
+    "spider"
+  ],
+  "calendar": [
+    "date"
+  ],
+  "camera": [
+    "device"
+  ],
+  "camera-video": [
+    "device"
+  ],
+  "cards": [
+    "issues"
+  ],
+  "cast": [
+    "chromecast",
+    "connect",
+    "wireless"
+  ],
+  "chart-bar": [
+    "graph"
+  ],
+  "chart-line": [
+    "graph"
+  ],
+  "chevron-down": [
+    "arrow"
+  ],
+  "chevron-left": [
+    "arrow"
+  ],
+  "chevron-right": [
+    "arrow"
+  ],
+  "chevron-up": [
+    "arrow"
+  ],
+  "chevrons-down": [
+    "arrow"
+  ],
+  "chevrons-left": [
+    "arrow"
+  ],
+  "chevrons-right": [
+    "arrow"
+  ],
+  "chevrons-up": [
+    "arrow"
+  ],
+  "circle": [
+    "shape"
+  ],
+  "clipboard": [
+    "copy",
+    "paste"
+  ],
+  "clock": [
+    "date",
+    "time"
+  ],
+  "cloud": [
+    ""
+  ],
+  "clover": [
+    "charm",
+    "luck"
+  ],
+  "code": [
+    "arrow",
+    "xml"
+  ],
+  "cog": [
+    "gear",
+    "settings"
+  ],
+  "copy": [
+    "duplicate"
+  ],
+  "credit-card": [
+    "debit",
+    "money",
+    "payment"
+  ],
+  "cross": [
+    "remove",
+    "x"
+  ],
+  "cube": [
+    "block",
+    "box"
+  ],
+  "database": [
+    "storage"
+  ],
+  "disc": [
+    "storage"
+  ],
+  "download": [
+    "arrow",
+    "save"
+  ],
+  "droplet": [
+    "tear",
+    "water"
+  ],
+  "eye": [
+    "see",
+    "vision"
+  ],
+  "face-frown": [
+    "emoji",
+    "emote"
+  ],
+  "face-neutral": [
+    "emoji",
+    "emote"
+  ],
+  "face-smile": [
+    "emoji",
+    "emote"
+  ],
+  "file": [
+    "storage"
+  ],
+  "filter": [
+    "adjust",
+    "tweak"
+  ],
+  "flame": [
+    "fire"
+  ],
+  "folder": [
+    "directory"
+  ],
+  "forward": [
+    "arrow",
+    "email",
+    "share"
+  ],
+  "gem": [
+    "jewel",
+    "ruby"
+  ],
+  "gift": [
+    "present"
+  ],
+  "git-branch": [],
+  "git-commit": [],
+  "git-compare": [],
+  "git-fork": [],
+  "git-merge": [],
+  "git-request": [
+    "merge-request",
+    "pull-request"
+  ],
+  "github": [],
+  "gitlab": [],
+  "globe": [
+    "earth",
+    "world"
+  ],
+  "graduate-cap": [
+    "education",
+    "university"
+  ],
+  "hash": [
+    "hashtag",
+    "tag"
+  ],
+  "headphones": [
+    "audio",
+    "music",
+    "sound"
+  ],
+  "heart": [
+    "like",
+    "love"
+  ],
+  "help": [
+    "question"
+  ],
+  "hexagon": [
+    "shape"
+  ],
+  "home": [
+    "house"
+  ],
+  "image": [
+    "media",
+    "photo"
+  ],
+  "inbox": [
+    "email"
+  ],
+  "info": [
+    "information"
+  ],
+  "laptop": [
+    "device"
+  ],
+  "layout-grid": [],
+  "layout-list": [],
+  "layout-sidebar": [],
+  "lightbulb": [
+    "idea"
+  ],
+  "lightning-bolt": [
+    "flash"
+  ],
+  "link": [
+    "chain"
+  ],
+  "mail": [
+    "email"
+  ],
+  "map-pin": [
+    "location"
+  ],
+  "menu-hamburger": [],
+  "menu-kebab": [],
+  "menu-meatball": [],
+  "message": [
+    "comment"
+  ],
+  "messages": [
+    "comments"
+  ],
+  "microphone": [
+    "audio",
+    "device"
+  ],
+  "minus": [
+    "negative"
+  ],
+  "mobile": [
+    "device",
+    "phone",
+    "smartphone"
+  ],
+  "monitor": [
+    "computer",
+    "dekstop",
+    "device",
+    "pc"
+  ],
+  "moon": [
+    "dark",
+    "night"
+  ],
+  "package": [
+    "box"
+  ],
+  "padlock": [
+    "lock",
+    "private"
+  ],
+  "paper-plane": [
+    "message",
+    "send"
+  ],
+  "paperclip": [
+    "attachment"
+  ],
+  "pencil": [
+    "edit",
+    "write"
+  ],
+  "people": [
+    "profiles"
+  ],
+  "person": [
+    "profile"
+  ],
+  "pin": [],
+  "plus": [
+    "add",
+    "new",
+    "positive"
+  ],
+  "printer": [
+    "device"
+  ],
+  "refresh": [
+    "arrow"
+  ],
+  "reply": [
+    "arrow",
+    "email"
+  ],
+  "rotate-anti-clockwise": [
+    "arrow"
+  ],
+  "rotate-clockwise": [
+    "arrow"
+  ],
+  "screen-maximise": [],
+  "screen-minimise": [],
+  "search": [
+    "find",
+    "magnifying-glass"
+  ],
+  "share": [
+    "send",
+    "social"
+  ],
+  "shield": [],
+  "shopping-bag": [],
+  "sign-in": [
+    "arrow",
+    "log-in"
+  ],
+  "sign-out": [
+    "arrow",
+    "log-in"
+  ],
+  "sound-up": [
+    "audio",
+    "sound"
+  ],
+  "square": [
+    "shape"
+  ],
+  "star": [
+    "night"
+  ],
+  "sun": [
+    "day",
+    "light"
+  ],
+  "swap-horizontal": [
+    "arrow",
+    "switch"
+  ],
+  "swap-vertical": [
+    "arrow",
+    "switch"
+  ],
+  "tablet": [
+    "device"
+  ],
+  "tag": [
+    "label"
+  ],
+  "terminal": [
+    "cmd"
+  ],
+  "thumb-down": [
+    "dislike"
+  ],
+  "thumb-up": [
+    "like"
+  ],
+  "tick": [
+    "approve",
+    "check",
+    "correct"
+  ],
+  "upload": [
+    "arrow"
+  ]
+}

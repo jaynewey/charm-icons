@@ -1,0 +1,14 @@
+language: node_js
+cache:
+  directories:
+    - node_modules
+node_js:
+  - lts/*
+notifications:
+  email: false
+jobs:
+  include:
+    - stage: test
+      script: npm run test
+    - stage: build
+      script: npm run build
