@@ -30,7 +30,7 @@ For now, you can take a look at the icons on [CodePen](https://codepen.io/jaynew
   - [With CDN](#with-cdn)
   - [API reference](#api-reference)
   - [Notes](#notes)
-* [Contributions](#contributions)
+* [Contributing](#contributing)
 * [Issues](#issues)
   - [Icon Requests](#icon-requests)
 
@@ -225,7 +225,7 @@ Contributions are warmly welcomed. If you are contributing icon designs, please 
 
 ## Issues
 
-Please use the [GitHub isssue tracker](https://github.com/jaynewey/charm-icons/issues) to track issues.
+Please use the [GitHub issue tracker](https://github.com/jaynewey/charm-icons/issues) to track issues.
 
 ### Icon Requests
 
