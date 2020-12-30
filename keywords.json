@@ -406,6 +406,12 @@
     "check",
     "correct"
   ],
+  "tick-double": [
+    "approve",
+    "check",
+    "correct",
+    "ticks"
+  ],
   "upload": [
     "arrow"
   ]
