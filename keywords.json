@@ -150,6 +150,10 @@
     "tear",
     "water"
   ],
+  "extensions": [
+    "plugins",
+    "apps"
+  ],
   "eye": [
     "see",
     "vision"
