@@ -120,6 +120,15 @@
     "gear",
     "settings"
   ],
+  "conical-flask": [
+    "beaker",
+    "development",
+    "experimental",
+    "lab",
+    "science",
+    "study",
+    "tests"
+  ],
   "copy": [
     "duplicate"
   ],
