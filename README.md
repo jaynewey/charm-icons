@@ -115,7 +115,7 @@ placeIcons({
 // This will still bundle any unused icons.
 import { placeIcons, icons } from 'charm-icons';
 
-placeIcons({ icons });
+placeIcons({ icons: icons });
 ```
 
 ### With CDN
@@ -127,7 +127,7 @@ placeIcons({ icons });
 
   <script src="https://unpkg.com/charm-icons@latest"></script>
   <script>
-    charm.placeIcons({ charm.icons });
+    charm.placeIcons({ icons: charm.icons });
   </script>
 </body>
 ```
