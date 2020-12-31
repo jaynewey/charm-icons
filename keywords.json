@@ -373,6 +373,14 @@
     "arrow",
     "log-in"
   ],
+  "sound-down": [
+    "audio",
+    "sound"
+  ],
+  "sound-mute": [
+    "audio",
+    "sound"
+  ],
   "sound-up": [
     "audio",
     "sound"
