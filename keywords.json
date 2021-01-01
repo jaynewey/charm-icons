@@ -120,6 +120,15 @@
     "gear",
     "settings"
   ],
+  "conical-flask": [
+    "beaker",
+    "development",
+    "experimental",
+    "lab",
+    "science",
+    "study",
+    "tests"
+  ],
   "copy": [
     "duplicate"
   ],
@@ -149,6 +158,10 @@
   "droplet": [
     "tear",
     "water"
+  ],
+  "extensions": [
+    "plugins",
+    "apps"
   ],
   "eye": [
     "see",
@@ -294,6 +307,28 @@
     "dark",
     "night"
   ],
+  "notes": [
+    "list",
+    "page",
+    "paper",
+    "write"
+  ],
+  "notes-cross": [
+    "fail",
+    "list",
+    "page",
+    "paper",
+    "write",
+    "x"
+  ],
+  "notes-tick": [
+    "check",
+    "list",
+    "page",
+    "paper",
+    "success",
+    "write"
+  ],
   "package": [
     "box"
   ],
@@ -360,6 +395,14 @@
     "arrow",
     "log-in"
   ],
+  "sound-down": [
+    "audio",
+    "sound"
+  ],
+  "sound-mute": [
+    "audio",
+    "sound"
+  ],
   "sound-up": [
     "audio",
     "sound"
@@ -370,6 +413,7 @@
   "star": [
     "night"
   ],
+  "sticky-note": [],
   "sun": [
     "day",
     "light"
@@ -401,6 +445,15 @@
     "approve",
     "check",
     "correct"
+  ],
+  "tick-double": [
+    "approve",
+    "check",
+    "correct",
+    "ticks"
+  ],
+  "triangle": [
+    "shape"
   ],
   "upload": [
     "arrow"
