@@ -97,6 +97,13 @@
   "circle": [
     "shape"
   ],
+  "circle-tick": [
+    "approve",
+    "check",
+    "correct",
+    "done",
+    "success"
+  ],
   "clipboard": [
     "copy",
     "paste"
@@ -413,6 +420,13 @@
   ],
   "square": [
     "shape"
+  ],
+  "square-tick": [
+    "approve",
+    "check",
+    "correct",
+    "done",
+    "success"
   ],
   "star": [
     "night"
