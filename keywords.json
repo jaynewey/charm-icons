@@ -270,6 +270,10 @@
   "link": [
     "chain"
   ],
+  "link-external": [
+    "arrow",
+    "url"
+  ],
   "mail": [
     "email"
   ],
