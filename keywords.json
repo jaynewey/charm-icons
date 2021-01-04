@@ -406,6 +406,10 @@
     "arrow",
     "log-in"
   ],
+  "signpost": [
+    "directions",
+    "milestone"
+  ],
   "sound-down": [
     "audio",
     "sound"
