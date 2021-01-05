@@ -77,7 +77,7 @@ yarn add charm-icons
 
 ## Usage
 
-You may use the SVG files ([found here](github.com/jaynewey/charm-icons/icons)) however you please. If you are using them in a javascript project, `charm-icons` provides a basic API for handling them.
+You may use the SVG files ([found here](/icons)) however you please. If you are using them in a javascript project, `charm-icons` provides a basic API for handling them.
 
 Following are some examples of using the API to insert an icon into your webpage:
 
