@@ -265,6 +265,8 @@
   "laptop": [
     "device"
   ],
+  "layout-columns": [],
+  "layout-dashboard": [],
   "layout-grid": [],
   "layout-list": [],
   "layout-sidebar": [],
@@ -483,5 +485,27 @@
   ],
   "upload": [
     "arrow"
+  ],
+  "wifi": [
+    "connection",
+    "internet"
+  ],
+  "wifi-fair": [
+    "connection",
+    "internet"
+  ],
+  "wifi-poor": [
+    "connection",
+    "internet"
+  ],
+  "wifi-slash": [
+    "connection",
+    "internet",
+    "off"
+  ],
+  "wifi-warning": [
+    "connection",
+    "error",
+    "internet"
   ]
 }
