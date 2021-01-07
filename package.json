@@ -8,7 +8,7 @@
     "treeshake",
     "charm"
   ],
-  "version": "0.2.0",
+  "version": "0.3.0",
   "license": "MIT",
   "author": "Jay Newey <jay.newey01@gmail.com> (github.com/jaynewey)",
   "source": "build/charm.js",
