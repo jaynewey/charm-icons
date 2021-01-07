@@ -97,6 +97,13 @@
   "circle": [
     "shape"
   ],
+  "circle-tick": [
+    "approve",
+    "check",
+    "correct",
+    "done",
+    "success"
+  ],
   "clipboard": [
     "copy",
     "paste"
@@ -258,6 +265,8 @@
   "laptop": [
     "device"
   ],
+  "layout-columns": [],
+  "layout-dashboard": [],
   "layout-grid": [],
   "layout-list": [],
   "layout-sidebar": [],
@@ -269,6 +278,10 @@
   ],
   "link": [
     "chain"
+  ],
+  "link-external": [
+    "arrow",
+    "url"
   ],
   "mail": [
     "email"
@@ -395,6 +408,10 @@
     "arrow",
     "log-in"
   ],
+  "signpost": [
+    "directions",
+    "milestone"
+  ],
   "sound-down": [
     "audio",
     "sound"
@@ -409,6 +426,17 @@
   ],
   "square": [
     "shape"
+  ],
+  "square-tick": [
+    "approve",
+    "check",
+    "correct",
+    "done",
+    "success"
+  ],
+  "stack": [
+    "layers",
+    "pages"
   ],
   "star": [
     "night"
@@ -457,5 +485,27 @@
   ],
   "upload": [
     "arrow"
+  ],
+  "wifi": [
+    "connection",
+    "internet"
+  ],
+  "wifi-fair": [
+    "connection",
+    "internet"
+  ],
+  "wifi-poor": [
+    "connection",
+    "internet"
+  ],
+  "wifi-slash": [
+    "connection",
+    "internet",
+    "off"
+  ],
+  "wifi-warning": [
+    "connection",
+    "error",
+    "internet"
   ]
 }
