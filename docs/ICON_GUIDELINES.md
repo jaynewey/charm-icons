@@ -1,6 +1,6 @@
 # Icon Guidelines
 
-To keep `charm-icons` somewhat consistent, some guidelines are outlined. They are designed to be restrictive, but not _too_ restrictive as this could flexibility.
+To keep `charm-icons` somewhat consistent, some guidelines are outlined. They are designed to be restrictive, but not _too_ restrictive to avoid hindering flexibility.
 
 ## Design
 
