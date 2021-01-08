@@ -4,7 +4,7 @@
 
 # Charm Icons
 
-[![CI](https://github.com/jaynewey/charm-icons/workflows/ci/badge.svg)](https://github.com/jaynewey/charm-icons/actions)
+[![CI](https://github.com/jaynewey/charm-icons/workflows/CI/badge.svg)](https://github.com/jaynewey/charm-icons/actions)
 [![GitHub](https://img.shields.io/github/license/jaynewey/charm-icons)](https://github.com/jaynewey/charm-icons/blob/main/LICENSE)
 [![npm](https://img.shields.io/npm/v/charm-icons)](https://www.npmjs.com/package/charm-icons)
 
