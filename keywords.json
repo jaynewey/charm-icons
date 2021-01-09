@@ -388,6 +388,11 @@
   "rotate-clockwise": [
     "arrow"
   ],
+  "scale": [
+    "justice",
+    "law",
+    "license"
+  ],
   "screen-maximise": [],
   "screen-minimise": [],
   "search": [
