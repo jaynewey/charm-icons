@@ -385,6 +385,12 @@
     "arrow",
     "email"
   ],
+  "rocket": [
+    "blast",
+    "launch",
+    "ship",
+    "space"
+  ],
   "rotate-anti-clockwise": [
     "arrow"
   ],
