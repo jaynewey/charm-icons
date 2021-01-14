@@ -375,6 +375,10 @@
     "new",
     "positive"
   ],
+  "power": [
+    "off",
+    "on"
+  ],
   "printer": [
     "device"
   ],
