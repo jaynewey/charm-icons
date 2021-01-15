@@ -345,6 +345,11 @@
   "octagon": [
     "shape"
   ],
+  "octagon-warning": [
+    "attention",
+    "caution",
+    "span"
+  ],
   "package": [
     "box"
   ],
