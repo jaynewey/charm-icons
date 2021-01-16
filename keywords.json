@@ -283,6 +283,10 @@
     "arrow",
     "url"
   ],
+  "link-slash": [
+    "chain",
+    "unlink"
+  ],
   "mail": [
     "email"
   ],
