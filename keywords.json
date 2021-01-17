@@ -104,6 +104,10 @@
     "done",
     "success"
   ],
+  "circle-warning": [
+    "attention",
+    "caution"
+  ],
   "clipboard": [
     "copy",
     "paste"
