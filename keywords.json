@@ -521,6 +521,11 @@
   "triangle": [
     "shape"
   ],
+  "trophy": [
+    "award",
+    "cup",
+    "win"
+  ],
   "upload": [
     "arrow"
   ],
