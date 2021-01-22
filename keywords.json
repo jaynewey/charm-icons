@@ -56,6 +56,10 @@
   "camera-video": [
     "device"
   ],
+  "camera-video-slash": [
+    "device",
+    "off"
+  ],
   "cards": [
     "issues"
   ],
