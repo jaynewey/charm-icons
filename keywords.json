@@ -56,6 +56,10 @@
   "camera-video": [
     "device"
   ],
+  "camera-video-slash": [
+    "device",
+    "off"
+  ],
   "cards": [
     "issues"
   ],
@@ -103,6 +107,10 @@
     "correct",
     "done",
     "success"
+  ],
+  "circle-warning": [
+    "attention",
+    "caution"
   ],
   "clipboard": [
     "copy",
@@ -283,6 +291,10 @@
     "arrow",
     "url"
   ],
+  "link-slash": [
+    "chain",
+    "unlink"
+  ],
   "mail": [
     "email"
   ],
@@ -342,6 +354,14 @@
     "success",
     "write"
   ],
+  "octagon": [
+    "shape"
+  ],
+  "octagon-warning": [
+    "attention",
+    "caution",
+    "spam"
+  ],
   "package": [
     "box"
   ],
@@ -372,6 +392,10 @@
     "new",
     "positive"
   ],
+  "power": [
+    "off",
+    "on"
+  ],
   "printer": [
     "device"
   ],
@@ -382,11 +406,29 @@
     "arrow",
     "email"
   ],
+  "robot": [
+    "android",
+    "automate",
+    "bot",
+    "droid",
+    "machine"
+  ],
+  "rocket": [
+    "blast",
+    "launch",
+    "ship",
+    "space"
+  ],
   "rotate-anti-clockwise": [
     "arrow"
   ],
   "rotate-clockwise": [
     "arrow"
+  ],
+  "scale": [
+    "justice",
+    "law",
+    "license"
   ],
   "screen-maximise": [],
   "screen-minimise": [],
@@ -482,6 +524,11 @@
   ],
   "triangle": [
     "shape"
+  ],
+  "trophy": [
+    "award",
+    "cup",
+    "win"
   ],
   "upload": [
     "arrow"
