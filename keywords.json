@@ -454,6 +454,18 @@
     "directions",
     "milestone"
   ],
+  "skull": [
+    "bone",
+    "dead",
+    "death",
+    "fossil",
+    "halloween",
+    "head",
+    "kill",
+    "old",
+    "skeleton",
+    "stale"
+  ],
   "sound-down": [
     "audio",
     "sound"
