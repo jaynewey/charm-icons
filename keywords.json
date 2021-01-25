@@ -5,6 +5,12 @@
   "arrow-down": [
     "arrow"
   ],
+  "arrow-down-left": [
+    "arrow"
+  ],
+  "arrow-down-right": [
+    "arrow"
+  ],
   "arrow-left": [
     "arrow"
   ],
@@ -12,6 +18,12 @@
     "arrow"
   ],
   "arrow-up": [
+    "arrow"
+  ],
+  "arrow-up-left": [
+    "arrow"
+  ],
+  "arrow-up-right": [
     "arrow"
   ],
   "at-sign": [
