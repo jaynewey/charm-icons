@@ -111,7 +111,9 @@
     "arrow"
   ],
   "circle": [
-    "shape"
+    "media",
+    "shape",
+    "stop"
   ],
   "circle-tick": [
     "approve",
@@ -312,6 +314,41 @@
   ],
   "map-pin": [
     "location"
+  ],
+  "media-back": [
+    "controls",
+    "music",
+    "video"
+  ],
+  "media-eject": [
+    "controls",
+    "music",
+    "video"
+  ],
+  "media-fast-forward": [
+    "controls",
+    "music",
+    "video"
+  ],
+  "media-pause": [
+    "controls",
+    "music",
+    "video"
+  ],
+  "media-play": [
+    "controls",
+    "music",
+    "video"
+  ],
+  "media-rewind": [
+    "controls",
+    "music",
+    "video"
+  ],
+  "media-skip": [
+    "controls",
+    "music",
+    "video"
   ],
   "menu-hamburger": [],
   "menu-kebab": [],
