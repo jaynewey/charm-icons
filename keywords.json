@@ -439,6 +439,34 @@
   "person": [
     "profile"
   ],
+  "phone-call": [
+    "call",
+    "ring",
+    "telephone"
+  ],
+  "phone-cross": [
+    "call",
+    "ring",
+    "telephone"
+  ],
+  "phone-forward": [
+    "arrow",
+    "call",
+    "ring",
+    "telephone"
+  ],
+  "phone-incoming": [
+    "arrow",
+    "call",
+    "ring",
+    "telephone"
+  ],
+  "phone-outgoing": [
+    "arrow",
+    "call",
+    "ring",
+    "telephone"
+  ],
   "pin": [],
   "plus": [
     "add",
