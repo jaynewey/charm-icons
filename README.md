@@ -28,6 +28,7 @@ For now, you can take a look at the icons on [CodePen](https://codepen.io/jaynew
 * [Usage](#usage)
   - [With ESModules (Recommended)](#with-esmodules-recommended)
   - [With CDN](#with-cdn)
+  - [Using custom icons with the API](#using-custom-icons-with-the-api)
   - [API reference](#api-reference)
   - [Notes](#notes)
 * [Contributing](#contributing)
@@ -115,7 +116,7 @@ placeIcons({
 // This will still bundle any unused icons.
 import { placeIcons, icons } from 'charm-icons';
 
-placeIcons({ icons });
+placeIcons({ icons: icons });
 ```
 
 ### With CDN
@@ -127,10 +128,47 @@ placeIcons({ icons });
 
   <script src="https://unpkg.com/charm-icons@latest"></script>
   <script>
-    charm.placeIcons({ charm.icons });
+    charm.placeIcons({ icons: charm.icons });
   </script>
 </body>
 ```
+
+### Using custom icons with the API
+
+_See [this codepen demo](https://codepen.io/jaynewey/pen/wvovOQX) for a working demo of this section._
+
+You can use any icons you like with the API, provided the icon is an object with the following attributes:
+
+| Attribute name | Type       | Description                                |
+|----------------|------------|--------------------------------------------|
+| `name`         | `string`   | The name of the icon in `kebab-case`       |
+| `paths`        | `string`   | The svg content                            |
+| `keywords`     | `[string]` | A list of relevant keywords (may be empty) |
+
+For example, let's make our own `test` icon, a copy of `conical-flask` with a different name:
+
+```html
+<body>
+  <div>
+    <i data-charm="test"></i>
+  </div>
+</body>
+```
+
+```js
+const Test = {
+  name: 'test',
+  paths: '<path d="m4.75 1.75h6.5m-6.5 8h6.5m-5.5-7.5v4.5l-4 7.5h12.5l-4-7.5v-4.5"/>',
+  keywords: ['beaker', 'development', 'experimental', 'lab', 'science', 'study'],
+};
+```
+
+You can then pass the new icon to `placeIcons()`:
+
+```js
+charm.placeIcons({ icons: {Test} });
+```
+
 
 ### API reference
 
@@ -209,15 +247,6 @@ Get the combined attributes of an icon and given attributes.
 ### Notes
 
 * `charm` and `charm-<icon name>` classes are added to all icons by default. Use these classes how you please.
-
-* Technically, you can use any icons with the API, as long as the icon is an object in the following form:
-  - ```js
-    {
-      name: {string} The name of the icon in `kebab-case`,
-      paths: {string} The svg content,
-      keywords: {[string]} A list of relevant keywords,
-    }
-    ```
 
 ## Contributing
 
