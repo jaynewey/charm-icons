@@ -5,6 +5,12 @@
   "arrow-down": [
     "arrow"
   ],
+  "arrow-down-left": [
+    "arrow"
+  ],
+  "arrow-down-right": [
+    "arrow"
+  ],
   "arrow-left": [
     "arrow"
   ],
@@ -12,6 +18,12 @@
     "arrow"
   ],
   "arrow-up": [
+    "arrow"
+  ],
+  "arrow-up-left": [
+    "arrow"
+  ],
+  "arrow-up-right": [
     "arrow"
   ],
   "at-sign": [
@@ -99,7 +111,9 @@
     "arrow"
   ],
   "circle": [
-    "shape"
+    "media",
+    "shape",
+    "stop"
   ],
   "circle-tick": [
     "approve",
@@ -201,6 +215,10 @@
     "adjust",
     "tweak"
   ],
+  "flag": [
+    "mark",
+    "report"
+  ],
   "flame": [
     "fire"
   ],
@@ -301,6 +319,41 @@
   "map-pin": [
     "location"
   ],
+  "media-back": [
+    "controls",
+    "music",
+    "video"
+  ],
+  "media-eject": [
+    "controls",
+    "music",
+    "video"
+  ],
+  "media-fast-forward": [
+    "controls",
+    "music",
+    "video"
+  ],
+  "media-pause": [
+    "controls",
+    "music",
+    "video"
+  ],
+  "media-play": [
+    "controls",
+    "music",
+    "video"
+  ],
+  "media-rewind": [
+    "controls",
+    "music",
+    "video"
+  ],
+  "media-skip": [
+    "controls",
+    "music",
+    "video"
+  ],
   "menu-hamburger": [],
   "menu-kebab": [],
   "menu-meatball": [],
@@ -386,6 +439,34 @@
   "person": [
     "profile"
   ],
+  "phone-call": [
+    "call",
+    "ring",
+    "telephone"
+  ],
+  "phone-cross": [
+    "call",
+    "ring",
+    "telephone"
+  ],
+  "phone-forward": [
+    "arrow",
+    "call",
+    "ring",
+    "telephone"
+  ],
+  "phone-incoming": [
+    "arrow",
+    "call",
+    "ring",
+    "telephone"
+  ],
+  "phone-outgoing": [
+    "arrow",
+    "call",
+    "ring",
+    "telephone"
+  ],
   "pin": [],
   "plus": [
     "add",
@@ -453,6 +534,18 @@
   "signpost": [
     "directions",
     "milestone"
+  ],
+  "skull": [
+    "bone",
+    "dead",
+    "death",
+    "fossil",
+    "halloween",
+    "head",
+    "kill",
+    "old",
+    "skeleton",
+    "stale"
   ],
   "sound-down": [
     "audio",
