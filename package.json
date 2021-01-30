@@ -16,7 +16,7 @@
   "main:umd": "dist/umd/charm.js",
   "module": "dist/esm/charm.js",
   "unpkg": "dist/umd/charm.min.js",
-  "homepage": "https://github.com/jaynewey/charm-icons#README",
+  "homepage": "https://codepen.io/jaynewey/full/LYROoGJ",
   "repository": "github:jaynewey/charm-icons",
   "bugs": {
     "url": "https://github.com/jaynewey/charm-icons/issues"
