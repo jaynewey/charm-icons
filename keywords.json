@@ -439,6 +439,11 @@
   "person": [
     "profile"
   ],
+  "phone": [
+    "call",
+    "ring",
+    "telephone"
+  ],
   "phone-call": [
     "call",
     "ring",
