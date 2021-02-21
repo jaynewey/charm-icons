@@ -46,6 +46,9 @@
     "connect",
     "wireless"
   ],
+  "book": [
+    "information"
+  ],
   "book-open": [
     "information"
   ],
