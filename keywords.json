@@ -228,6 +228,9 @@
   "folder": [
     "directory"
   ],
+  "folders": [
+    "directories"
+  ],
   "forward": [
     "arrow",
     "email",
