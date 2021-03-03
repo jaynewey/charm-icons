@@ -658,5 +658,12 @@
     "connection",
     "error",
     "internet"
+  ],
+  "zoom-in": [
+    "magnifying-glass",
+  ],
+  "zoom-out": [
+    "magnifying-glass",
+    "minify"
   ]
 }
