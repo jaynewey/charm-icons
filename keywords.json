@@ -291,6 +291,9 @@
   "inbox": [
     "email"
   ],
+  "infinity": [
+    "loop"
+  ],
   "info": [
     "information"
   ],
@@ -660,7 +663,7 @@
     "internet"
   ],
   "zoom-in": [
-    "magnifying-glass",
+    "magnifying-glass"
   ],
   "zoom-out": [
     "magnifying-glass",
