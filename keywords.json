@@ -180,6 +180,14 @@
   "database": [
     "storage"
   ],
+  "diff": [
+    "additions",
+    "changes",
+    "compare",
+    "minus",
+    "plus",
+    "removals"
+  ],
   "disc": [
     "storage"
   ],
