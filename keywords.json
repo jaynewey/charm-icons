@@ -46,6 +46,9 @@
     "connect",
     "wireless"
   ],
+  "book": [
+    "information"
+  ],
   "book-open": [
     "information"
   ],
@@ -177,6 +180,14 @@
   "database": [
     "storage"
   ],
+  "diff": [
+    "additions",
+    "changes",
+    "compare",
+    "minus",
+    "plus",
+    "removals"
+  ],
   "disc": [
     "storage"
   ],
@@ -224,6 +235,9 @@
   ],
   "folder": [
     "directory"
+  ],
+  "folders": [
+    "directories"
   ],
   "forward": [
     "arrow",
@@ -284,6 +298,9 @@
   ],
   "inbox": [
     "email"
+  ],
+  "infinity": [
+    "loop"
   ],
   "info": [
     "information"
@@ -439,6 +456,11 @@
   "person": [
     "profile"
   ],
+  "phone": [
+    "call",
+    "ring",
+    "telephone"
+  ],
   "phone-call": [
     "call",
     "ring",
@@ -522,6 +544,10 @@
     "social"
   ],
   "shield": [],
+  "shield-cross": [],
+  "shield-keyhole": [],
+  "shield-tick": [],
+  "shield-warning": [],
   "shopping-bag": [],
   "sign-in": [
     "arrow",
@@ -647,5 +673,12 @@
     "connection",
     "error",
     "internet"
+  ],
+  "zoom-in": [
+    "magnifying-glass"
+  ],
+  "zoom-out": [
+    "magnifying-glass",
+    "minify"
   ]
 }
