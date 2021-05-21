@@ -424,6 +424,10 @@
     "success",
     "write"
   ],
+  "nut": [
+    "hardware",
+    "settings"
+  ],
   "octagon": [
     "shape"
   ],
