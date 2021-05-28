@@ -619,6 +619,20 @@
     "arrow",
     "switch"
   ],
+  "sword": [
+    "attack",
+    "battle",
+    "dagger",
+    "strike",
+    "weapon"
+  ],
+  "swords": [
+    "attack",
+    "battle",
+    "dagger",
+    "strike",
+    "weapon"
+  ],
   "tablet": [
     "device"
   ],
