@@ -1,3 +1,7 @@
+/**
+ * @jest-environment jsdom
+ */
+
 import * as icons from './icons';
 import {
   getAttrs, toSvg, toElement, placeIcons,
