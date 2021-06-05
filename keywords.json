@@ -314,6 +314,14 @@
   "layout-list": [],
   "layout-rows": [],
   "layout-sidebar": [],
+  "layout-stack-h": [
+    "horizontal",
+    "wide"
+  ],
+  "layout-stack-v": [
+    "tall",
+    "vertical"
+  ],
   "lightbulb": [
     "idea"
   ],
