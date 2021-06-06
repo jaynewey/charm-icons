@@ -299,6 +299,14 @@
   "home": [
     "house"
   ],
+  "id": [
+    "identification",
+    "identity",
+    "passport",
+    "person",
+    "photo",
+    "picture"
+  ],
   "image": [
     "media",
     "photo"
