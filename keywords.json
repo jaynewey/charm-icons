@@ -244,6 +244,13 @@
     "email",
     "share"
   ],
+  "gamepad": [
+    "controller",
+    "joypad",
+    "joystick",
+    "play",
+    "videogame"
+  ],
   "gem": [
     "jewel",
     "ruby"
