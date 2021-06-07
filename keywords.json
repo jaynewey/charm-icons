@@ -113,6 +113,13 @@
   "chevrons-up": [
     "arrow"
   ],
+  "chip": [
+    "circuit",
+    "computer",
+    "cpu",
+    "processor",
+    "semiconductor"
+  ],
   "circle": [
     "media",
     "shape",
