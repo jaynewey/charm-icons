@@ -113,6 +113,13 @@
   "chevrons-up": [
     "arrow"
   ],
+  "chip": [
+    "circuit",
+    "computer",
+    "cpu",
+    "processor",
+    "semiconductor"
+  ],
   "circle": [
     "media",
     "shape",
@@ -244,6 +251,13 @@
     "email",
     "share"
   ],
+  "gamepad": [
+    "controller",
+    "joypad",
+    "joystick",
+    "play",
+    "videogame"
+  ],
   "gem": [
     "jewel",
     "ruby"
@@ -292,6 +306,14 @@
   "home": [
     "house"
   ],
+  "id": [
+    "identification",
+    "identity",
+    "passport",
+    "person",
+    "photo",
+    "picture"
+  ],
   "image": [
     "media",
     "photo"
@@ -312,7 +334,16 @@
   "layout-dashboard": [],
   "layout-grid": [],
   "layout-list": [],
+  "layout-rows": [],
   "layout-sidebar": [],
+  "layout-stack-h": [
+    "horizontal",
+    "wide"
+  ],
+  "layout-stack-v": [
+    "tall",
+    "vertical"
+  ],
   "lightbulb": [
     "idea"
   ],
@@ -424,6 +455,10 @@
     "success",
     "write"
   ],
+  "nut": [
+    "hardware",
+    "settings"
+  ],
   "octagon": [
     "shape"
   ],
@@ -490,6 +525,12 @@
     "telephone"
   ],
   "pin": [],
+  "plant-pot": [
+    "eco",
+    "growth",
+    "leaf",
+    "nature"
+  ],
   "plus": [
     "add",
     "new",
@@ -614,6 +655,20 @@
   "swap-vertical": [
     "arrow",
     "switch"
+  ],
+  "sword": [
+    "attack",
+    "battle",
+    "dagger",
+    "strike",
+    "weapon"
+  ],
+  "swords": [
+    "attack",
+    "battle",
+    "dagger",
+    "strike",
+    "weapon"
   ],
   "tablet": [
     "device"
