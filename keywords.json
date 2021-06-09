@@ -1,4 +1,10 @@
 {
+  "anchor": [
+    "attach",
+    "dock",
+    "secure",
+    "ship"
+  ],
   "archive": [
     "store"
   ],
