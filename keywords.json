@@ -549,6 +549,12 @@
   "printer": [
     "device"
   ],
+  "pulse": [
+    "activity",
+    "data",
+    "health",
+    "traffic"
+  ],
   "refresh": [
     "arrow"
   ],
