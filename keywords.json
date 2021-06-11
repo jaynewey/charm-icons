@@ -312,6 +312,12 @@
   "home": [
     "house"
   ],
+  "hourglass": [
+    "clock",
+    "countdown",
+    "sand",
+    "timer"
+  ],
   "id": [
     "identification",
     "identity",
