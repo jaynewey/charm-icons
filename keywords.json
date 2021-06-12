@@ -376,6 +376,13 @@
   "mail": [
     "email"
   ],
+  "map": [
+    "location",
+    "navigation",
+    "paper",
+    "route",
+    "travel"
+  ],
   "map-pin": [
     "location"
   ],
