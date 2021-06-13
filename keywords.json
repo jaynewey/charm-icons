@@ -131,6 +131,11 @@
     "shape",
     "stop"
   ],
+  "circle-cross": [
+    "error",
+    "select",
+    "x"
+  ],
   "circle-tick": [
     "approve",
     "check",
@@ -651,6 +656,11 @@
   ],
   "square": [
     "shape"
+  ],
+  "square-cross": [
+    "error",
+    "select",
+    "x"
   ],
   "square-tick": [
     "approve",
