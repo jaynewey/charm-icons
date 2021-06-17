@@ -168,6 +168,12 @@
     "gear",
     "settings"
   ],
+  "compass": [
+    "direction",
+    "location",
+    "navigation",
+    "travel"
+  ],
   "conical-flask": [
     "beaker",
     "development",
