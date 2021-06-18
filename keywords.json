@@ -186,6 +186,14 @@
   "copy": [
     "duplicate"
   ],
+  "copyleft": [
+    "licence",
+    "license"
+  ],
+  "copyright": [
+    "licence",
+    "license"
+  ],
   "credit-card": [
     "debit",
     "money",
