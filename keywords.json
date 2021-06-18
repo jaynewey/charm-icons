@@ -607,9 +607,10 @@
   "rotate-clockwise": [
     "arrow"
   ],
-  "scale": [
+  "scales": [
     "justice",
     "law",
+    "licence",
     "license"
   ],
   "screen-maximise": [],
