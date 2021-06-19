@@ -1,4 +1,10 @@
 {
+  "anchor": [
+    "attach",
+    "dock",
+    "secure",
+    "ship"
+  ],
   "archive": [
     "store"
   ],
@@ -125,6 +131,11 @@
     "shape",
     "stop"
   ],
+  "circle-cross": [
+    "error",
+    "select",
+    "x"
+  ],
   "circle-tick": [
     "approve",
     "check",
@@ -144,9 +155,7 @@
     "date",
     "time"
   ],
-  "cloud": [
-    ""
-  ],
+  "cloud": [],
   "clover": [
     "charm",
     "luck"
@@ -159,6 +168,12 @@
     "gear",
     "settings"
   ],
+  "compass": [
+    "direction",
+    "location",
+    "navigation",
+    "travel"
+  ],
   "conical-flask": [
     "beaker",
     "development",
@@ -170,6 +185,14 @@
   ],
   "copy": [
     "duplicate"
+  ],
+  "copyleft": [
+    "licence",
+    "license"
+  ],
+  "copyright": [
+    "licence",
+    "license"
   ],
   "credit-card": [
     "debit",
@@ -212,6 +235,10 @@
   ],
   "eye": [
     "see",
+    "vision"
+  ],
+  "eye-slash": [
+    "hide",
     "vision"
   ],
   "face-frown": [
@@ -306,6 +333,12 @@
   "home": [
     "house"
   ],
+  "hourglass": [
+    "clock",
+    "countdown",
+    "sand",
+    "timer"
+  ],
   "id": [
     "identification",
     "identity",
@@ -363,6 +396,13 @@
   ],
   "mail": [
     "email"
+  ],
+  "map": [
+    "location",
+    "navigation",
+    "paper",
+    "route",
+    "travel"
   ],
   "map-pin": [
     "location"
@@ -543,6 +583,12 @@
   "printer": [
     "device"
   ],
+  "pulse": [
+    "activity",
+    "data",
+    "health",
+    "traffic"
+  ],
   "refresh": [
     "arrow"
   ],
@@ -569,9 +615,10 @@
   "rotate-clockwise": [
     "arrow"
   ],
-  "scale": [
+  "scales": [
     "justice",
     "law",
+    "licence",
     "license"
   ],
   "screen-maximise": [],
@@ -628,6 +675,11 @@
   ],
   "square": [
     "shape"
+  ],
+  "square-cross": [
+    "error",
+    "select",
+    "x"
   ],
   "square-tick": [
     "approve",

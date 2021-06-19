@@ -42,9 +42,9 @@ For now, you can take a look at the icons on [CodePen](https://codepen.io/jaynew
 * [Octicons](https://github.com/primer/octicons)
   - While Octicons have 16px variants designed for the 16x16 pixel grid, it does not use the `stroke-width` property, unlike `charm`.
     - Thus, `charm` allows for more customisation, and the icons tend to be smaller in file size.
-* [Feather](https://github.com/feathericons/feather)
-  - Feather Icons are primarily designed for 24x24 pixel resolution whereas `charm` aims to look best at 16x16 pixel resolution.
-    - For this reason, `charm` may work quite well alongside Feather (be wary of design differences!).
+* [Lucide / Feather](https://github.com/lucide-icons/lucide)
+  - Lucide Icons are primarily designed for 24x24 pixel resolution whereas `charm` aims to look best at 16x16 pixel resolution.
+    - For this reason, `charm` may work quite well alongside Lucide (be wary of design differences!).
 
 `charm-icons` is also built to be fully treeshakable with ESModules.
 
