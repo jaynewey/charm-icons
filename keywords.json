@@ -203,6 +203,11 @@
     "remove",
     "x"
   ],
+  "crosshair": [
+    "aim",
+    "locate",
+    "target"
+  ],
   "cube": [
     "block",
     "box"
