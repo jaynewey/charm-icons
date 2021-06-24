@@ -298,6 +298,7 @@
     "present"
   ],
   "git-branch": [],
+  "git-cherry-pick": [],
   "git-commit": [],
   "git-compare": [],
   "git-fork": [],
