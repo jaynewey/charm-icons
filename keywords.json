@@ -306,6 +306,11 @@
     "merge-request",
     "pull-request"
   ],
+  "git-request-closed": [
+    "cross",
+    "merge-request",
+    "pull-request"
+  ],
   "github": [],
   "gitlab": [],
   "globe": [
