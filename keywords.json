@@ -38,6 +38,11 @@
   "bell": [
     "notifications"
   ],
+  "bell-slash": [
+    "mute",
+    "notifications",
+    "off"
+  ],
   "bin": [
     "delete",
     "remove",
