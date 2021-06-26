@@ -376,6 +376,12 @@
   "info": [
     "information"
   ],
+  "key": [
+    "lock",
+    "password",
+    "secret",
+    "unlock"
+  ],
   "laptop": [
     "device"
   ],
