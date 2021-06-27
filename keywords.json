@@ -57,6 +57,19 @@
     "connect",
     "wireless"
   ],
+  "bluetooth-connected": [
+    "connect",
+    "wireless"
+  ],
+  "bluetooth-searching": [
+    "connect",
+    "wireless"
+  ],
+  "bluetooth-slash": [
+    "connect",
+    "off",
+    "wireless"
+  ],
   "book": [
     "information"
   ],
