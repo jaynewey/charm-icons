@@ -173,6 +173,11 @@
     "date",
     "time"
   ],
+  "clock-alarm": [
+    "reminder",
+    "snooze",
+    "time"
+  ],
   "cloud": [],
   "clover": [
     "charm",
