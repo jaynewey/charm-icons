@@ -187,6 +187,12 @@
     "arrow",
     "xml"
   ],
+  "coffee": [
+    "cafe",
+    "drink",
+    "mug",
+    "tea"
+  ],
   "cog": [
     "gear",
     "settings"
