@@ -38,6 +38,11 @@
   "bell": [
     "notifications"
   ],
+  "bell-slash": [
+    "mute",
+    "notifications",
+    "off"
+  ],
   "bin": [
     "delete",
     "remove",
@@ -50,6 +55,19 @@
   ],
   "bluetooth": [
     "connect",
+    "wireless"
+  ],
+  "bluetooth-connected": [
+    "connect",
+    "wireless"
+  ],
+  "bluetooth-searching": [
+    "connect",
+    "wireless"
+  ],
+  "bluetooth-slash": [
+    "connect",
+    "off",
     "wireless"
   ],
   "book": [
@@ -155,6 +173,11 @@
     "date",
     "time"
   ],
+  "clock-alarm": [
+    "reminder",
+    "snooze",
+    "time"
+  ],
   "cloud": [],
   "clover": [
     "charm",
@@ -163,6 +186,12 @@
   "code": [
     "arrow",
     "xml"
+  ],
+  "coffee": [
+    "cafe",
+    "drink",
+    "mug",
+    "tea"
   ],
   "cog": [
     "gear",
@@ -202,6 +231,11 @@
   "cross": [
     "remove",
     "x"
+  ],
+  "crosshair": [
+    "aim",
+    "locate",
+    "target"
   ],
   "cube": [
     "block",
@@ -293,11 +327,17 @@
     "present"
   ],
   "git-branch": [],
+  "git-cherry-pick": [],
   "git-commit": [],
   "git-compare": [],
   "git-fork": [],
   "git-merge": [],
   "git-request": [
+    "merge-request",
+    "pull-request"
+  ],
+  "git-request-closed": [
+    "cross",
     "merge-request",
     "pull-request"
   ],
@@ -359,6 +399,12 @@
   ],
   "info": [
     "information"
+  ],
+  "key": [
+    "lock",
+    "password",
+    "secret",
+    "unlock"
   ],
   "laptop": [
     "device"
