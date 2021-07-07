@@ -719,6 +719,11 @@
     "audio",
     "sound"
   ],
+  "speaker": [
+    "audio",
+    "device",
+    "sound"
+  ],
   "square": [
     "shape"
   ],
