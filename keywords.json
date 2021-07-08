@@ -301,6 +301,10 @@
   "flame": [
     "fire"
   ],
+  "floppy-disk": [
+    "save",
+    "storage"
+  ],
   "folder": [
     "directory"
   ],
