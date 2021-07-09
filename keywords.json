@@ -137,6 +137,10 @@
   "chevrons-up": [
     "arrow"
   ],
+  "chevrons-up-down": [
+    "arrow",
+    "expand"
+  ],
   "chip": [
     "circuit",
     "computer",
