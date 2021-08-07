@@ -300,6 +300,11 @@
     "executable",
     "storage"
   ],
+  "file-code": [
+    "document",
+    "source",
+    "storage"
+  ],
   "filter": [
     "adjust",
     "tweak"
