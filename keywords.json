@@ -295,6 +295,11 @@
     "document",
     "storage"
   ],
+  "file-binary": [
+    "document",
+    "executable",
+    "storage"
+  ],
   "filter": [
     "adjust",
     "tweak"
