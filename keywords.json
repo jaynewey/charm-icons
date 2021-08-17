@@ -50,6 +50,9 @@
     "trash",
     "waste"
   ],
+  "binary": [
+    "executable"
+  ],
   "block": [
     "banned"
   ],
