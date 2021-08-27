@@ -50,6 +50,9 @@
     "trash",
     "waste"
   ],
+  "binary": [
+    "executable"
+  ],
   "block": [
     "banned"
   ],
@@ -136,6 +139,10 @@
   ],
   "chevrons-up": [
     "arrow"
+  ],
+  "chevrons-up-down": [
+    "arrow",
+    "expand"
   ],
   "chip": [
     "circuit",
@@ -288,6 +295,17 @@
     "emote"
   ],
   "file": [
+    "document",
+    "storage"
+  ],
+  "file-binary": [
+    "document",
+    "executable",
+    "storage"
+  ],
+  "file-code": [
+    "document",
+    "source",
     "storage"
   ],
   "filter": [
@@ -300,6 +318,10 @@
   ],
   "flame": [
     "fire"
+  ],
+  "floppy-disk": [
+    "save",
+    "storage"
   ],
   "folder": [
     "directory"
@@ -346,6 +368,14 @@
   "globe": [
     "earth",
     "world"
+  ],
+  "grab-horizontal": [
+    "grip",
+    "handle"
+  ],
+  "grab-vertical": [
+    "grip",
+    "handle"
   ],
   "graduate-cap": [
     "education",
@@ -518,6 +548,12 @@
   "moon": [
     "dark",
     "night"
+  ],
+  "music": [
+    "audio",
+    "note",
+    "sound",
+    "tune"
   ],
   "notes": [
     "list",
@@ -719,6 +755,11 @@
     "audio",
     "sound"
   ],
+  "speaker": [
+    "audio",
+    "device",
+    "sound"
+  ],
   "square": [
     "shape"
   ],
@@ -801,6 +842,10 @@
     "award",
     "cup",
     "win"
+  ],
+  "umbrella": [
+    "rain",
+    "weather"
   ],
   "upload": [
     "arrow"
