@@ -102,6 +102,12 @@
     "device",
     "off"
   ],
+  "candy": [
+    "food",
+    "sweet",
+    "toffee",
+    "wrapper"
+  ],
   "cards": [
     "issues"
   ],
