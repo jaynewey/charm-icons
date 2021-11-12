@@ -116,6 +116,16 @@
     "connect",
     "wireless"
   ],
+  "certificate": [
+    "authentication",
+    "badge",
+    "credential",
+    "deed",
+    "degree",
+    "diploma",
+    "file",
+    "license"
+  ],
   "chart-bar": [
     "graph"
   ],
