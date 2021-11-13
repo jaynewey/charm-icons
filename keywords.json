@@ -379,6 +379,11 @@
     "merge-request",
     "pull-request"
   ],
+  "git-request-draft": [
+    "draft",
+    "merge-request",
+    "pull-request"
+  ],
   "github": [],
   "gitlab": [],
   "globe": [
