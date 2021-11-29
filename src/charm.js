@@ -1,5 +1,5 @@
 import * as allIcons from './icons/index';
-import DEFAULT_ATTRS from './default-attrs.json';
+import DEFAULT_ATTRS from './defaultAttrs';
 
 /**
    * Convert object attributes to XML attribute string.
