@@ -21,14 +21,16 @@
   "bugs": {
     "url": "https://github.com/jaynewey/charm-icons/issues"
   },
+  "typings": "dist/charm-icons.d.ts",
   "scripts": {
     "start": "babel-watch --watch src",
     "clean": "rm -rf dist && rm -rf build",
-    "build": "npm run clean && npm run build:move && npm run build:icons && npm run build:esm && npm run build:bundles",
+    "build": "npm run clean && npm run build:move && npm run build:icons && npm run build:esm && npm run build:bundles && npm run build:move-types",
     "build:move": "cp -av src build",
     "build:icons": "npx babel-node --presets @babel/env scripts/build/buildModules.js",
     "build:esm": "babel build -d dist/esm",
     "build:bundles": "rollup -c",
+    "build:move-types": "cp build/charm-icons.d.ts dist/charm-icons.d.ts",
     "test": "jest --coverage",
     "release": "release-it"
   },

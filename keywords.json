@@ -102,6 +102,12 @@
     "device",
     "off"
   ],
+  "candy": [
+    "food",
+    "sweet",
+    "toffee",
+    "wrapper"
+  ],
   "cards": [
     "issues"
   ],
@@ -109,6 +115,16 @@
     "chromecast",
     "connect",
     "wireless"
+  ],
+  "certificate": [
+    "authentication",
+    "badge",
+    "credential",
+    "deed",
+    "degree",
+    "diploma",
+    "file",
+    "license"
   ],
   "chart-bar": [
     "graph"
@@ -360,6 +376,11 @@
   ],
   "git-request-closed": [
     "cross",
+    "merge-request",
+    "pull-request"
+  ],
+  "git-request-draft": [
+    "draft",
     "merge-request",
     "pull-request"
   ],
