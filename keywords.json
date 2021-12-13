@@ -576,6 +576,11 @@
     "sound",
     "tune"
   ],
+  "north-star": [
+    "asterisk",
+    "polaris",
+    "star"
+  ],
   "notes": [
     "list",
     "page",
