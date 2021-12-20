@@ -811,6 +811,16 @@
     "layers",
     "pages"
   ],
+  "stack-pop": [
+    "arrow",
+    "layers",
+    "pages"
+  ],
+  "stack-push": [
+    "arrow",
+    "layers",
+    "pages"
+  ],
   "star": [
     "night"
   ],
