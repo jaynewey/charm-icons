@@ -16,8 +16,13 @@
 
 ### Demo / Preview
 
-A proper site with search, filter etc. is in the works.
-For now, you can take a look at the icons on [CodePen](https://codepen.io/jaynewey/full/LYROoGJ).
+You can take a look at the icons on [CodePen](https://codepen.io/jaynewey/full/LYROoGJ) or have a quick look below:
+
+<div align="center">
+
+<img src="docs/img/splash.svg">
+
+</div>
 
 ## Contents
 

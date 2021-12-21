@@ -362,6 +362,7 @@
     "ruby"
   ],
   "gift": [
+    "christmas",
     "present"
   ],
   "git-branch": [],
@@ -576,6 +577,11 @@
     "sound",
     "tune"
   ],
+  "north-star": [
+    "asterisk",
+    "polaris",
+    "star"
+  ],
   "notes": [
     "list",
     "page",
@@ -764,6 +770,12 @@
     "skeleton",
     "stale"
   ],
+  "snowflake": [
+    "christmas",
+    "cold",
+    "ice",
+    "winter"
+  ],
   "sound-down": [
     "audio",
     "sound"
@@ -797,6 +809,16 @@
     "success"
   ],
   "stack": [
+    "layers",
+    "pages"
+  ],
+  "stack-pop": [
+    "arrow",
+    "layers",
+    "pages"
+  ],
+  "stack-push": [
+    "arrow",
     "layers",
     "pages"
   ],
@@ -855,6 +877,11 @@
     "check",
     "correct",
     "ticks"
+  ],
+  "tree-fir": [
+    "christmas",
+    "nature",
+    "spruce"
   ],
   "triangle": [
     "shape"
