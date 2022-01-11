@@ -33,7 +33,7 @@ function typeTemplate(filenames) {
         icons?: object, attrs?: object, replaceAttr?: string 
     }
     
-    export declare function placeIcons(options?: PlaceIconsOptions);
+    export declare function placeIcons(options?: PlaceIconsOptions): void;
     
     export declare const icons: Icons;
     
