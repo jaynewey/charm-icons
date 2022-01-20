@@ -24,6 +24,8 @@ You can take a look at the icons on [CodePen](https://codepen.io/jaynewey/full/L
 
 </div>
 
+You can also look at the icons on [icones](https://icones.js.org/collection/charm).
+
 ## Contents
 
 * [Inspiration / Motivation](#inspiration--motivation)
@@ -80,6 +82,12 @@ yarn add charm-icons
 ```html
 <script src="https://unpkg.com/charm-icons@latest"></script>
 ```
+
+### Iconify
+
+`charm` is available via [iconify](https://github.com/iconify/iconify).
+
+Iconify has component libraries for React, Vue, Svelte and Ember.
 
 ## Usage
 
