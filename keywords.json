@@ -35,6 +35,13 @@
   "at-sign": [
     "email"
   ],
+  "atom": [
+    "ion",
+    "neutron",
+    "nuclear",
+    "proton",
+    "react"
+  ],
   "bell": [
     "notifications"
   ],
