@@ -584,6 +584,12 @@
     "sound",
     "tune"
   ],
+  "newspaper": [
+    "article",
+    "bulletin",
+    "journal",
+    "report"
+  ],
   "north-star": [
     "asterisk",
     "polaris",
