@@ -871,6 +871,15 @@
   "tag": [
     "label"
   ],
+  "telescope": [
+    "discover",
+    "explore",
+    "look",
+    "science",
+    "space",
+    "stars",
+    "view"
+  ],
   "terminal": [
     "cmd"
   ],
