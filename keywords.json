@@ -274,6 +274,10 @@
   "database": [
     "storage"
   ],
+  "diamond": [
+    "cards",
+    "shape"
+  ],
   "diff": [
     "additions",
     "changes",
