@@ -199,6 +199,12 @@
     "copy",
     "paste"
   ],
+  "clipboard-tick": [
+    "check",
+    "copy",
+    "paste",
+    "success"
+  ],
   "clock": [
     "date",
     "time"
