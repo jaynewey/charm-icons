@@ -32,7 +32,8 @@
     "build:bundles": "rollup -c",
     "build:move-types": "cp build/charm-icons.d.ts dist/charm-icons.d.ts",
     "test": "jest --coverage",
-    "release": "release-it"
+    "release": "release-it",
+    "semantic-release": "semantic-release"
   },
   "devDependencies": {
     "@babel/cli": "^7.12.10",
@@ -47,23 +48,11 @@
     "eslint-plugin-jest": "^25.3.0",
     "jest": "^27.0.3",
     "prettier-eslint": "^13.0.0",
-    "release-it": "^14.2.2",
     "rollup": "^2.35.1",
-    "rollup-plugin-terser": "^7.0.2"
+    "rollup-plugin-terser": "^7.0.2",
+    "semantic-release": "^19.0.2"
   },
-  "release-it": {
-    "hooks": {
-      "after:bump": "npm run build",
-      "after:release": "echo Successfully released ${name} v${latestVersion} to ${repo.repository}."
-    },
-    "git": {
-      "addUntrackedFiles": true,
-      "tagName": "v${version}",
-      "requireBranch": "main",
-      "requireCommits": true
-    },
-    "github": {
-      "release": true
-    }
+  "release": {
+    "branches": ["main"]
   }
 }
