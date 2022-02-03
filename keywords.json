@@ -392,8 +392,8 @@
     "merge-request",
     "pull-request"
   ],
-  "git-request-closed": [
-    "cross",
+  "git-request-cross": [
+    "closed",
     "merge-request",
     "pull-request"
   ],
