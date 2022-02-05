@@ -25,12 +25,13 @@
   "scripts": {
     "start": "babel-watch --watch src",
     "clean": "rm -rf dist && rm -rf build",
-    "build": "npm run clean && npm run build:move && npm run build:icons && npm run build:esm && npm run build:bundles && npm run build:move-types",
+    "build": "npm run clean && npm run build:move && npm run build:icons && npm run build:esm && npm run build:bundles && npm run build:move-types && npm run build:generate-splash",
     "build:move": "cp -av src build",
     "build:icons": "npx babel-node --presets @babel/env scripts/build/buildModules.js",
     "build:esm": "babel build -d dist/esm",
     "build:bundles": "rollup -c",
     "build:move-types": "cp build/charm-icons.d.ts dist/charm-icons.d.ts",
+    "build:generate-splash": "npx babel-node --presets @babel/env scripts/build/generateSplash.js",
     "test": "jest --coverage",
     "release": "semantic-release",
     "semantic-release": "semantic-release"
