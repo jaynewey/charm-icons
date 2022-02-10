@@ -5,6 +5,26 @@
     "secure",
     "ship"
   ],
+  "apps": [
+    "addons",
+    "applications",
+    "plugins",
+    "programs"
+  ],
+  "apps-minus": [
+    "addons",
+    "applications",
+    "plugins",
+    "programs",
+    "remove"
+  ],
+  "apps-plus": [
+    "add",
+    "addons",
+    "applications",
+    "plugins",
+    "programs"
+  ],
   "archive": [
     "store"
   ],
@@ -302,10 +322,6 @@
   "droplet": [
     "tear",
     "water"
-  ],
-  "extensions": [
-    "apps",
-    "plugins"
   ],
   "eye": [
     "see",
