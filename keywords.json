@@ -290,6 +290,10 @@
     "money",
     "payment"
   ],
+  "crop": [
+    "image",
+    "photo"
+  ],
   "cross": [
     "remove",
     "x"
