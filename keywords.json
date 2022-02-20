@@ -392,6 +392,12 @@
   "folder": [
     "directory"
   ],
+  "folder-symlink": [
+    "arrow",
+    "directory",
+    "pointer",
+    "shortcut"
+  ],
   "folders": [
     "directories"
   ],
