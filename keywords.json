@@ -367,6 +367,13 @@
     "source",
     "storage"
   ],
+  "file-symlink": [
+    "arrow",
+    "document",
+    "pointer",
+    "shortcut",
+    "storage"
+  ],
   "filter": [
     "adjust",
     "tweak"
