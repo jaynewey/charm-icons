@@ -204,6 +204,9 @@
     "select",
     "x"
   ],
+  "circle-minus": [
+    "no-entry"
+  ],
   "circle-tick": [
     "approve",
     "check",
