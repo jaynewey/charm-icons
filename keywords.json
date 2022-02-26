@@ -377,6 +377,10 @@
     "shortcut",
     "storage"
   ],
+  "files": [
+    "documents",
+    "storage"
+  ],
   "filter": [
     "adjust",
     "tweak"
