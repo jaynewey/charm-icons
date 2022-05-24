@@ -626,9 +626,10 @@
   ],
   "monitor": [
     "computer",
-    "dekstop",
+    "desktop",
     "device",
-    "pc"
+    "pc",
+    "screen"
   ],
   "monitor-arrow": [
     "computer",
