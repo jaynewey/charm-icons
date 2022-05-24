@@ -630,6 +630,14 @@
     "device",
     "pc"
   ],
+  "monitor-cross": [
+    "computer",
+    "desktop",
+    "device",
+    "pc",
+    "screen",
+    "share"
+  ],
   "moon": [
     "dark",
     "night"
