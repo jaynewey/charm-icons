@@ -953,6 +953,11 @@
     "stars",
     "view"
   ],
+  "tent": [
+    "camping",
+    "campsite",
+    "tepee"
+  ],
   "terminal": [
     "cmd"
   ],
