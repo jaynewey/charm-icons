@@ -336,6 +336,12 @@
     "tear",
     "water"
   ],
+  "eraser": [
+    "delete",
+    "edit",
+    "remove",
+    "rubber"
+  ],
   "eye": [
     "see",
     "vision"
