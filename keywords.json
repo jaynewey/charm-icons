@@ -984,6 +984,13 @@
     "correct",
     "ticks"
   ],
+  "ticket": [
+    "booking",
+    "pass",
+    "plane",
+    "train",
+    "voucher"
+  ],
   "tree-fir": [
     "christmas",
     "nature",
