@@ -828,6 +828,11 @@
     "find",
     "magnifying-glass"
   ],
+  "server": [
+    "cloud",
+    "computer",
+    "storage"
+  ],
   "share": [
     "send",
     "social"
