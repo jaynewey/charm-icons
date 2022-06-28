@@ -24,7 +24,7 @@ Leave a 1 pixel padding around the icon. This is so that icons with a larger `st
 
 </div>
 
-Only if visually nessecary, you may extend to at maximum a 0.5 pixel border.
+Only if visually necessary, you may extend to at maximum a 0.5 pixel border.
 
 <div align="center">
 
