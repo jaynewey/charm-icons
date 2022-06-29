@@ -708,6 +708,10 @@
     "caution",
     "spam"
   ],
+  "organisation": [
+    "hierarchy",
+    "tree"
+  ],
   "package": [
     "box"
   ],
