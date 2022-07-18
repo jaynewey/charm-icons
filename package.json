@@ -45,7 +45,7 @@
     "@rollup/plugin-json": "^4.1.0",
     "@semantic-release/changelog": "^6.0.1",
     "@semantic-release/git": "^10.0.1",
-    "eslint": "^7.16.0",
+    "eslint": "^8.20.0",
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-plugin-import": "^2.22.1",
     "eslint-plugin-jest": "^26.1.0",
