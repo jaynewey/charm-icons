@@ -1,3 +1,11 @@
+# [0.16.0](https://github.com/jaynewey/charm-icons/compare/v0.15.0...v0.16.0) (2022-08-03)
+
+
+### Features
+
+* **icons:** add `organisation` icon ([a49d30b](https://github.com/jaynewey/charm-icons/commit/a49d30b7dc7e5941545e2008ab0738ede288ba8b))
+* **icons:** add `server` icon ([29fcea0](https://github.com/jaynewey/charm-icons/commit/29fcea0e8f97b47decb36f2d519574fa1837cb81))
+
 # [0.15.0](https://github.com/jaynewey/charm-icons/compare/v0.14.0...v0.15.0) (2022-06-02)
 
 
