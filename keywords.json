@@ -310,6 +310,11 @@
     "block",
     "box"
   ],
+  "cursor": [
+    "arrow",
+    "mouse",
+    "pointer"
+  ],
   "database": [
     "storage"
   ],
