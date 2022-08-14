@@ -662,6 +662,11 @@
     "dark",
     "night"
   ],
+  "move": [
+    "arrow",
+    "drag",
+    "pointer"
+  ],
   "music": [
     "audio",
     "note",
