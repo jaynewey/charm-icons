@@ -1,3 +1,11 @@
+# [0.17.0](https://github.com/jaynewey/charm-icons/compare/v0.16.0...v0.17.0) (2022-08-14)
+
+
+### Features
+
+* **icons:** add `cursor` icon ([50113bb](https://github.com/jaynewey/charm-icons/commit/50113bb4921dc642e17fdbcac70237fbe0b2cd89))
+* **icons:** add `move` icon ([a97790e](https://github.com/jaynewey/charm-icons/commit/a97790e4aa66eb83b98d7840e73bb152b43ccc4a))
+
 # [0.16.0](https://github.com/jaynewey/charm-icons/compare/v0.15.0...v0.16.0) (2022-08-03)
 
 
