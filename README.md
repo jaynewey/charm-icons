@@ -272,3 +272,13 @@ Please use the [GitHub issue tracker](https://github.com/jaynewey/charm-icons/is
 ### Icon Requests
 
 Please see the [icon request issue template](https://github.com/jaynewey/charm-icons/tree/main/.github/ISSUE_TEMPLATE) for submitting icon requests.
+
+## README Badge
+
+Use this badge to let others know you're using Charm Icons!
+
+[![Charm Icons](https://img.shields.io/badge/charm%20icons-%2350C878.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAANpJREFUOI2tk7FNA0EQRd/i7ERC4oQ6aAC3cCJyJW4Dd+HQEj2ckYCEAkhw5ogAEj8H/BOLpUPA+Us/mfn7Z3ZmF04NdaY+qJ3ahl1is2N9OTpcgFdgB7wBV0ndA+fABXBZSnGo+tRPLNSJehdOElOdDrW99QsvalPlm8R6bNXr2uBJfU6VXrhSS7iqjBfRPtYGnbpJq0114DbsDZtoNmpXG7TqXl33w1SXVcvLDBh1HW0LcPbDRn+PU1xh9BDHrbES/vkhjX7K37aQxBz4SOgmBHgH5oP/4L84AFJ3wx0yZi/SAAAAAElFTkSuQmCC)](https://github.com/jaynewey/charm-icons)
+
+```
+[![Charm Icons](https://img.shields.io/badge/charm%20icons-%2350C878.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAANpJREFUOI2tk7FNA0EQRd/i7ERC4oQ6aAC3cCJyJW4Dd+HQEj2ckYCEAkhw5ogAEj8H/BOLpUPA+Us/mfn7Z3ZmF04NdaY+qJ3ahl1is2N9OTpcgFdgB7wBV0ndA+fABXBZSnGo+tRPLNSJehdOElOdDrW99QsvalPlm8R6bNXr2uBJfU6VXrhSS7iqjBfRPtYGnbpJq0114DbsDZtoNmpXG7TqXl33w1SXVcvLDBh1HW0LcPbDRn+PU1xh9BDHrbES/vkhjX7K37aQxBz4SOgmBHgH5oP/4L84AFJ3wx0yZi/SAAAAAElFTkSuQmCC)](https://github.com/jaynewey/charm-icons)
+```
