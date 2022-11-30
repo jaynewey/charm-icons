@@ -1,3 +1,11 @@
+# [0.18.0](https://github.com/jaynewey/charm-icons/compare/v0.17.0...v0.18.0) (2022-11-30)
+
+
+### Features
+
+* **icons:** add `glasses` icon ([6386ec2](https://github.com/jaynewey/charm-icons/commit/6386ec22b2f3e9a6a251a15afeaa0ab4a8cce2f2))
+* **icons:** add `quote` icon ([bded65f](https://github.com/jaynewey/charm-icons/commit/bded65fb726e1b7f183e75ac425c0269996fe268))
+
 # [0.17.0](https://github.com/jaynewey/charm-icons/compare/v0.16.0...v0.17.0) (2022-08-14)
 
 
